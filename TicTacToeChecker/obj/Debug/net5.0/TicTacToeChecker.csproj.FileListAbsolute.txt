@@ -1,0 +1,15 @@
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/bin/Debug/net5.0/TicTacToeChecker.deps.json
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/bin/Debug/net5.0/TicTacToeChecker.runtimeconfig.json
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/bin/Debug/net5.0/TicTacToeChecker.runtimeconfig.dev.json
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/bin/Debug/net5.0/TicTacToeChecker.dll
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/bin/Debug/net5.0/ref/TicTacToeChecker.dll
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/bin/Debug/net5.0/TicTacToeChecker.pdb
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/obj/Debug/net5.0/TicTacToeChecker.csprojAssemblyReference.cache
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/obj/Debug/net5.0/TicTacToeChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/obj/Debug/net5.0/TicTacToeChecker.AssemblyInfoInputs.cache
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/obj/Debug/net5.0/TicTacToeChecker.AssemblyInfo.cs
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/obj/Debug/net5.0/TicTacToeChecker.csproj.CoreCompileInputs.cache
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/obj/Debug/net5.0/TicTacToeChecker.dll
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/obj/Debug/net5.0/ref/TicTacToeChecker.dll
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/obj/Debug/net5.0/TicTacToeChecker.pdb
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/obj/Debug/net5.0/TicTacToeChecker.genruntimeconfig.cache

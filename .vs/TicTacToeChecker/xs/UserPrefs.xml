@@ -1,17 +1,11 @@
 ﻿<Properties StartupConfiguration="{2E7396A7-6F6E-4B7C-949D-469AE0B19D40}|Default">
   <MonoDevelop.Ide.ItemProperties.TicTacToeChecker PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TicTacToeCheckerTests/TicTacToeEvaluatorTests.cs">
-    <Files>
-      <File FileName="TicTacToeCheckerTests/TicTacToeEvaluatorTests.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TicTacToeChecker" expanded="True">
-            <Node name="TicTacToeChecker" expanded="True" />
-            <Node name="TicTacToeCheckerTests" expanded="True">
-              <Node name="TicTacToeEvaluatorTests.cs" selected="True" />
-            </Node>
+            <Node name="TicTacToeCheckerTests" selected="True" />
           </Node>
         </State>
       </Pad>
