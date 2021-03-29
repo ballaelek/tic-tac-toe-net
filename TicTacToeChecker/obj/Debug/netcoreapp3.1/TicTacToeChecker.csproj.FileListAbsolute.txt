@@ -1,0 +1,12 @@
+/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeChecker/bin/Debug/netcoreapp3.1/TicTacToeChecker.deps.json
+/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeChecker/bin/Debug/netcoreapp3.1/TicTacToeChecker.runtimeconfig.json
+/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeChecker/bin/Debug/netcoreapp3.1/TicTacToeChecker.runtimeconfig.dev.json
+/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeChecker/bin/Debug/netcoreapp3.1/TicTacToeChecker.dll
+/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeChecker/bin/Debug/netcoreapp3.1/TicTacToeChecker.pdb
+/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeChecker/obj/Debug/netcoreapp3.1/TicTacToeChecker.csprojAssemblyReference.cache
+/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeChecker/obj/Debug/netcoreapp3.1/TicTacToeChecker.AssemblyInfoInputs.cache
+/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeChecker/obj/Debug/netcoreapp3.1/TicTacToeChecker.AssemblyInfo.cs
+/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeChecker/obj/Debug/netcoreapp3.1/TicTacToeChecker.csproj.CoreCompileInputs.cache
+/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeChecker/obj/Debug/netcoreapp3.1/TicTacToeChecker.dll
+/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeChecker/obj/Debug/netcoreapp3.1/TicTacToeChecker.pdb
+/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeChecker/obj/Debug/netcoreapp3.1/TicTacToeChecker.genruntimeconfig.cache
