@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{2E7396A7-6F6E-4B7C-949D-469AE0B19D40}|Default">
+  <MonoDevelop.Ide.ItemProperties.TicTacToeChecker PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TicTacToeCheckerTests/TicTacToeEvaluatorTests.cs">
+    <Files>
+      <File FileName="TicTacToeCheckerTests/TicTacToeEvaluatorTests.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TicTacToeChecker" expanded="True">
+            <Node name="TicTacToeChecker" expanded="True" />
+            <Node name="TicTacToeCheckerTests" expanded="True">
+              <Node name="TicTacToeEvaluatorTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TicTacToeChecker" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TicTacToeCheckerTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

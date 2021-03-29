@@ -14,7 +14,7 @@ namespace TicTacToeCheckerTests
                 {new List<string> {"x", "", "o"}, new List<string> {"", "o", ""}, new List<string> {"", "", "x"}};
             checker.Set(board);
 
-            Assert.AreEqual(3, checker.GetStatus());
+            Assert.AreEqual(-1, checker.GetStatus());
         }
 
         [Test]

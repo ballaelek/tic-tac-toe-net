@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeChecker/TicTacToeChecker.csproj": {}
+    "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/TicTacToeChecker.csproj": {}
   },
   "projects": {
-    "/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeChecker/TicTacToeChecker.csproj": {
+    "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/TicTacToeChecker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeChecker/TicTacToeChecker.csproj",
+        "projectUniqueName": "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/TicTacToeChecker.csproj",
         "projectName": "TicTacToeChecker",
-        "projectPath": "/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeChecker/TicTacToeChecker.csproj",
+        "projectPath": "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/TicTacToeChecker.csproj",
         "packagesPath": "/Users/oroszdavid/.nuget/packages/",
-        "outputPath": "/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeChecker/obj/",
+        "outputPath": "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

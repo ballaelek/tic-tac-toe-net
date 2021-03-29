@@ -10,3 +10,15 @@
 /Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeChecker/obj/Debug/netcoreapp3.1/TicTacToeChecker.dll
 /Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeChecker/obj/Debug/netcoreapp3.1/TicTacToeChecker.pdb
 /Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeChecker/obj/Debug/netcoreapp3.1/TicTacToeChecker.genruntimeconfig.cache
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/bin/Debug/netcoreapp3.1/TicTacToeChecker.deps.json
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/bin/Debug/netcoreapp3.1/TicTacToeChecker.runtimeconfig.json
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/bin/Debug/netcoreapp3.1/TicTacToeChecker.runtimeconfig.dev.json
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/bin/Debug/netcoreapp3.1/TicTacToeChecker.dll
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/bin/Debug/netcoreapp3.1/TicTacToeChecker.pdb
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/obj/Debug/netcoreapp3.1/TicTacToeChecker.csprojAssemblyReference.cache
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/obj/Debug/netcoreapp3.1/TicTacToeChecker.AssemblyInfoInputs.cache
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/obj/Debug/netcoreapp3.1/TicTacToeChecker.AssemblyInfo.cs
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/obj/Debug/netcoreapp3.1/TicTacToeChecker.csproj.CoreCompileInputs.cache
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/obj/Debug/netcoreapp3.1/TicTacToeChecker.dll
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/obj/Debug/netcoreapp3.1/TicTacToeChecker.pdb
+/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/obj/Debug/netcoreapp3.1/TicTacToeChecker.genruntimeconfig.cache

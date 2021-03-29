@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeCheckerTests/TicTacToeCheckerTests.csproj": {}
+    "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeCheckerTests/TicTacToeCheckerTests.csproj": {}
   },
   "projects": {
-    "/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeChecker/TicTacToeChecker.csproj": {
+    "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/TicTacToeChecker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeChecker/TicTacToeChecker.csproj",
+        "projectUniqueName": "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/TicTacToeChecker.csproj",
         "projectName": "TicTacToeChecker",
-        "projectPath": "/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeChecker/TicTacToeChecker.csproj",
+        "projectPath": "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/TicTacToeChecker.csproj",
         "packagesPath": "/Users/oroszdavid/.nuget/packages/",
-        "outputPath": "/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeChecker/obj/",
+        "outputPath": "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -59,14 +59,14 @@
         }
       }
     },
-    "/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeCheckerTests/TicTacToeCheckerTests.csproj": {
+    "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeCheckerTests/TicTacToeCheckerTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeCheckerTests/TicTacToeCheckerTests.csproj",
+        "projectUniqueName": "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeCheckerTests/TicTacToeCheckerTests.csproj",
         "projectName": "TicTacToeCheckerTests",
-        "projectPath": "/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeCheckerTests/TicTacToeCheckerTests.csproj",
+        "projectPath": "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeCheckerTests/TicTacToeCheckerTests.csproj",
         "packagesPath": "/Users/oroszdavid/.nuget/packages/",
-        "outputPath": "/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeCheckerTests/obj/",
+        "outputPath": "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeCheckerTests/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -84,8 +84,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeChecker/TicTacToeChecker.csproj": {
-                "projectPath": "/Users/oroszdavid/tic-tac-toe-checker-dotnet/TicTacToeChecker/TicTacToeChecker.csproj"
+              "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/TicTacToeChecker.csproj": {
+                "projectPath": "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/TicTacToeChecker.csproj"
               }
             }
           }
