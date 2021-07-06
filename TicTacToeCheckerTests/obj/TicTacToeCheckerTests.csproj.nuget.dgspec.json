@@ -1,91 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeCheckerTests/TicTacToeCheckerTests.csproj": {}
+    "C:\\Work\\DojoHub\\TicTac\\TicTacToeCheckerTests\\TicTacToeCheckerTests.csproj": {}
   },
   "projects": {
-    "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/TicTacToeChecker.csproj": {
+    "C:\\Work\\DojoHub\\TicTac\\TicTacToeCheckerTests\\TicTacToeCheckerTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/TicTacToeChecker.csproj",
-        "projectName": "TicTacToeChecker",
-        "projectPath": "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/TicTacToeChecker.csproj",
-        "packagesPath": "/Users/oroszdavid/.nuget/packages/",
-        "outputPath": "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/obj/",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "/Users/oroszdavid/.config/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeCheckerTests/TicTacToeCheckerTests.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeCheckerTests/TicTacToeCheckerTests.csproj",
+        "projectUniqueName": "C:\\Work\\DojoHub\\TicTac\\TicTacToeCheckerTests\\TicTacToeCheckerTests.csproj",
         "projectName": "TicTacToeCheckerTests",
-        "projectPath": "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeCheckerTests/TicTacToeCheckerTests.csproj",
-        "packagesPath": "/Users/oroszdavid/.nuget/packages/",
-        "outputPath": "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeCheckerTests/obj/",
+        "projectPath": "C:\\Work\\DojoHub\\TicTac\\TicTacToeCheckerTests\\TicTacToeCheckerTests.csproj",
+        "packagesPath": "C:\\Users\\BallaElek\\.nuget\\packages\\",
+        "outputPath": "C:\\Work\\DojoHub\\TicTac\\TicTacToeCheckerTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/oroszdavid/.config/NuGet/NuGet.Config"
+          "C:\\Users\\BallaElek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifacts.senegence.com:8081/nuget": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/TicTacToeChecker.csproj": {
-                "projectPath": "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/TicTacToeChecker.csproj"
+              "C:\\Work\\DojoHub\\TicTac\\TicTacToeChecker\\TicTacToeChecker.csproj": {
+                "projectPath": "C:\\Work\\DojoHub\\TicTac\\TicTacToeChecker\\TicTacToeChecker.csproj"
               }
             }
           }
@@ -128,7 +76,65 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Work\\DojoHub\\TicTac\\TicTacToeChecker\\TicTacToeChecker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Work\\DojoHub\\TicTac\\TicTacToeChecker\\TicTacToeChecker.csproj",
+        "projectName": "TicTacToeChecker",
+        "projectPath": "C:\\Work\\DojoHub\\TicTac\\TicTacToeChecker\\TicTacToeChecker.csproj",
+        "packagesPath": "C:\\Users\\BallaElek\\.nuget\\packages\\",
+        "outputPath": "C:\\Work\\DojoHub\\TicTac\\TicTacToeChecker\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BallaElek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifacts.senegence.com:8081/nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

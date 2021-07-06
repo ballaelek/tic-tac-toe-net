@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YSwtiBXYx5rTVjBFrHayFIPSCnTbCPuGuPN9cF0dbj1lPnFHc3Yy3KMoRNElCVvLyjRSSZZYZvBkynwM8Wgofg==",
+  "dgSpecHash": "wXE6qMt/nUtxMj1vnDn54ezu0BkMImsK77bIzbFF8nuhf0CVRlukW863iWsq6WmxjSCWIT789GQpKh0cVbZu9A==",
   "success": true,
-  "projectFilePath": "/Users/oroszdavid/Dojo/tic-tac-toe-net/TicTacToeChecker/TicTacToeChecker.csproj",
+  "projectFilePath": "C:\\Work\\DojoHub\\TicTac\\TicTacToeChecker\\TicTacToeChecker.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
